@@ -7,4 +7,4 @@
 - payment_detail
     - status : 결제 진행상태로 **ready(브라우저 창 이탈 등의 미결제 상태, paid(결제 완료 상태), failed(잔액 부족 등의결제실패 상태)**  
 ## ERD
- <img style="background-color:white" src="./erd/erd_24.04.05.png" />
+ <img style="background-color:white" src="./erd/erd_24.04.15.png" />
